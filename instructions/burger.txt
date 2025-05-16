@@ -1,0 +1,25 @@
+Burger Recipe
+
+Description:
+A homemade burger is a juicy beef patty grilled to perfection and served on a toasted bun with your favorite toppings. It's a quick and satisfying meal for any occasion.
+
+Ingredients:
+- 1 lb ground beef (80/20)
+- Salt and pepper
+- 4 hamburger buns
+- 4 slices cheese (optional)
+- Lettuce
+- Tomato, sliced
+- Onion, sliced
+- Pickles
+- Ketchup, mustard, mayo
+
+Steps:
+1. Preheat a grill or skillet over medium-high heat.
+2. Divide ground beef into 4 equal portions and form into patties.
+3. Season each side with salt and pepper.
+4. Cook patties for about 3-4 minutes per side, until desired doneness.
+5. Add cheese slices on top in the last minute of cooking (optional).
+6. Toast buns on the grill or in a pan until lightly browned.
+7. Assemble the burger: bun, patty, lettuce, tomato, onion, pickles, and condiments.
+8. Serve immediately with fries or a side salad.

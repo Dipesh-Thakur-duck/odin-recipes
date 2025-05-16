@@ -1,0 +1,29 @@
+Lasagna Recipe
+
+Description:
+Lasagna is a hearty Italian dish made with layers of pasta, meat sauce, cheese, and béchamel or ricotta. It is baked until bubbling and golden, making it a family favorite for dinner.
+
+Ingredients:
+- 9 lasagna noodles
+- 1 lb ground beef
+- 1 jar (24 oz) marinara sauce
+- 1 onion, diced
+- 2 cloves garlic, minced
+- 2 cups ricotta cheese
+- 2 cups shredded mozzarella cheese
+- 1/2 cup grated Parmesan cheese
+- 1 egg
+- Salt and pepper to taste
+- Olive oil
+
+Steps:
+1. Preheat oven to 375°F (190°C).
+2. Cook lasagna noodles according to package instructions. Drain and set aside.
+3. In a pan, heat olive oil and sauté onion and garlic until translucent.
+4. Add ground beef, cook until browned. Drain excess fat.
+5. Stir in marinara sauce. Simmer for 10 minutes.
+6. In a bowl, mix ricotta cheese, egg, half of the Parmesan, salt, and pepper.
+7. In a baking dish, spread a layer of meat sauce, then noodles, then ricotta mixture, then mozzarella. Repeat layers.
+8. Top with remaining mozzarella and Parmesan.
+9. Cover with foil and bake for 25 minutes. Uncover and bake another 10 minutes until golden.
+10. Let sit for 10 minutes before serving.

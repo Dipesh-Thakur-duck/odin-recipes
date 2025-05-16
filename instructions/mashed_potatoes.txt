@@ -1,0 +1,22 @@
+Mashed Potatoes Recipe
+
+Description:
+Mashed potatoes are a classic comfort food made by mashing boiled potatoes and mixing them with butter, milk, and seasoning for a creamy, smooth texture. They're perfect as a side dish for meats, gravies, and vegetables.
+
+Ingredients:
+- 4 large potatoes (Yukon Gold or Russet)
+- 4 tablespoons butter
+- 1/2 cup milk
+- Salt to taste
+- Pepper to taste
+- Optional: garlic, cream, chives
+
+Steps:
+1. Peel the potatoes and cut them into even chunks.
+2. Boil the potatoes in a large pot with salted water until tender (about 15-20 minutes).
+3. Drain the potatoes and return them to the pot.
+4. Add butter and mash the potatoes until smooth.
+5. Slowly stir in the milk, adjusting the consistency as desired.
+6. Season with salt and pepper to taste.
+7. (Optional) Mix in garlic, cream, or chopped chives for extra flavor.
+8. Serve hot.
